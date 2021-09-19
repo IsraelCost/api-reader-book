@@ -9,4 +9,4 @@ In this api I used the following technologies:
 * Typescript;
 * TypeORM.
 
-Basecally the api-reader-book store books, readers and relates them.
+Basically the api-reader-book stores books, readers and relates them.
